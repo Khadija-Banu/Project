@@ -1,0 +1,1 @@
+<footer class="text-center text-white p-3 footer" style="background-color:green;font-style:italic;font-size:16px">© 2023 Copyright: Khadija Banu</footer>
